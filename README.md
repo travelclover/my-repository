@@ -6,6 +6,6 @@
 插件说明地址：[https://www.jackpu.com/shi-yong-javascript-tan-ce-wang-luo-zhuang-tai](https://www.jackpu.com/shi-yong-javascript-tan-ce-wang-luo-zhuang-tai)
 <br/>
 
-2. **[tesseract.js](https://github.com/naptha/tesseract.js)**
-纯 JavaScript 实现 OCR 功能，支持超过100种语言的文字识别。经过测试，对手写文字的识别率不够准确。
+2. **[tesseract.js](https://github.com/naptha/tesseract.js)**  
+纯 JavaScript 实现 OCR 功能，支持超过100种语言的文字识别。经过测试，对手写文字的识别率不够准确。  
 仓库地址：[https://github.com/naptha/tesseract.js](https://github.com/naptha/tesseract.js)
