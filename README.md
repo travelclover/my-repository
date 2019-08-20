@@ -22,3 +22,9 @@ Tone.js是一个用于在浏览器中创建交互式音乐的Web Audio框架。T
 仓库地址: [https://github.com/Tonejs/Tone.js](https://github.com/Tonejs/Tone.js)  
 文档地址: [https://tonejs.github.io/](https://tonejs.github.io/)  
 <br/>
+
+5. **[TypeLighter.js](https://github.com/EdernClemente/TypeLighterJS)**  
+TypeLighter.js 是一款轻量级（gzip 压缩后仅1.04KB）的JS库，能帮助你实现打字机效果。它提供了8个属性（写入速度、写入/删除延迟等）供你微调，更改 data 属性即可更改其值。  
+仓库地址: [https://github.com/EdernClemente/TypeLighterJS](https://github.com/EdernClemente/TypeLighterJS)  
+文档地址: [https://edernclemente.com/plugin/typelighterjs](https://edernclemente.com/plugin/typelighterjs)  
+<br/>
