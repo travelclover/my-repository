@@ -28,3 +28,8 @@ TypeLighter.js 是一款轻量级（gzip 压缩后仅1.04KB）的JS库，能帮�
 仓库地址: [https://github.com/EdernClemente/TypeLighterJS](https://github.com/EdernClemente/TypeLighterJS)  
 文档地址: [https://edernclemente.com/plugin/typelighterjs](https://edernclemente.com/plugin/typelighterjs)  
 <br/>
+
+6. **[SheetJS](https://github.com/SheetJS/sheetjs)**
+SheetJS是前端操作Excel以及类似的二维表的最佳选择之一，可以运行在浏览器端和Node端。支持纯浏览器端解析和导出数据。js-xlsx是它的社区版本，npm安装的包名是xlsx。  
+仓库地址: [https://github.com/SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)  
+文档地址: [https://sheetjs.com/](https://sheetjs.com/)  
