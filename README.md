@@ -48,3 +48,15 @@ SheetJS是前端操作Excel以及类似的二维表的最佳选择之一，可�
 文档地址: [https://github.com/malte-wessel/react-custom-scrollbars/tree/master/docs](https://github.com/malte-wessel/react-custom-scrollbars/tree/master/docs)  
 示例地址: [https://malte-wessel.com/react-custom-scrollbars/](https://malte-wessel.com/react-custom-scrollbars/)  
 <br/>
+
+1. **[react-content-loader](https://github.com/danilowoz/react-content-loader)**  
+一个轻量的网页骨架布局生成器，大小不超过2KB且没有任何依赖。轻松修改骨架大小和颜色。支持React和React Native。  
+仓库地址: [https://github.com/danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader)  
+示例地址: [https://skeletonreact.com/](https://skeletonreact.com/)  
+<br/>
+
+## Vue
+1. **[vue-content-loader](https://github.com/egoist/vue-content-loader)**  
+一个轻量的网页骨架布局生成器，是[react-content-loader](https://github.com/danilowoz/react-content-loader)的Vue版本，支持自定义修改骨架大小和颜色。 
+仓库地址: [https://github.com/egoist/vue-content-loader](https://github.com/egoist/vue-content-loader)  
+<br/>
